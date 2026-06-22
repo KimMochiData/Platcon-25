@@ -1,0 +1,502 @@
+[
+  {
+    "entity1": "microsoft visual studio test agent 2005 cd 1 processor license microsoft software 5099.0",
+    "entity2": "individual software professor teaches microsoft office 2007 29.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe dreamweaver cs3 [ mac ] adobe 399.0",
+    "entity2": "adobe cs3 web premium 1659.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "instant immersion spanish 2.0 topics entertainment 29.99",
+    "entity2": "instant immers japanese dlx 2 . 36.11",
+    "label": "NO"
+  },
+  {
+    "entity1": "i transfer dvds 2 ipod edition ( win/mac ) me-too-software 29.99",
+    "entity2": "ghost recon gold edition ( dvd-rom ) 20.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe flash pro cs3 upgrade [ mac ] adobe 199.0",
+    "entity2": "adobe illustrator cs3 ( mac ) 599.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "instant immersion ingles audio deluxe topics entertainment",
+    "entity2": "instant immersion spanish deluxe 2.0 topics 39.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "acrobat professional 8 ( windows ) adobe 273.0",
+    "entity2": "web easy ( r ) professional 6 49.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft licenses word olp c ( 05903871 ) microsoft licenses 205.73",
+    "entity2": "microsoft office visio standard 2007 ( pc ) 249.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft onenote 2007 upgrade microsoft 79.95",
+    "entity2": "164-04052 microsoft office publisher 2007 version upgrade package 1 pc cd win en 88.8",
+    "label": "NO"
+  },
+  {
+    "entity1": "steinberg nuendo 3 digital audio software steinberg 2499.0",
+    "entity2": "steinberg wavelab studio 6 audio editing software educational discount music production software 149.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "quickbooks point-of-sale basic 6.0 intuit 799.95",
+    "entity2": "quickbooks pro 2007 3 user 409.52",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft visio standard 2007 microsoft 259.95",
+    "entity2": "microsoft w87-02380 office sbe 2007 win32 400.34",
+    "label": "NO"
+  },
+  {
+    "entity1": "quicken 2007 basic intuit 29.95",
+    "entity2": "quicken ( r ) for mac 2007 69.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft office 2004 professional ( mac ) microsoft 499.99",
+    "entity2": "microsoft onenote 2007 ( pc ) 99.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "steinberg cubase 4 digital audio software steinberg 999.99",
+    "entity2": "migo software digital file shredder 2005 24.58",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft works suite 2006 microsoft 99.0",
+    "entity2": "microsoft office 2004 student/teacher 145.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "quicken legal business pro 2007 nolo press 79.99",
+    "entity2": "palo alto business plan pro 2007 83.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "apple final cut studio 2 ( mac ) apple 1299.0",
+    "entity2": "apple software m9372z/a final cut express 2.0 upgrade apple software 79.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe acrobat 7.0 professional adobe 449.99",
+    "entity2": "adobe after effects professional 7.0 software effects software 998.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft powerpoint 2004 ( mac ) microsoft 229.99",
+    "entity2": "microsoft money 2007 home and business ( pc ) 89.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe creative suite cs3 design premium [ mac ] adobe 1799.0",
+    "entity2": "adobe cs3 design standard academic 385.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe cs3 design standard macosx dvd adobe 399.0",
+    "entity2": "adobe cs3 design standard upgrade 413.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "professional home design suite platinum punch ! software 99.95",
+    "entity2": "scrapbook designer platinum riverdeep-learning-company 17.9",
+    "label": "NO"
+  },
+  {
+    "entity1": "sims 2 glamour life stuff pack aspyr media 24.99",
+    "entity2": "aspyr media inc sims 2 glamour life stuff pack 23.44",
+    "label": "YES"
+  },
+  {
+    "entity1": "microsoft office 2004 professional ( mac ) microsoft 499.99",
+    "entity2": "diskeeper 2007 professional 46.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "final draft av 2.5 win/mac final draft 199.99",
+    "entity2": "final-draft final draft av 2.5 screenwriting software mac/win screen writing software 199.95",
+    "label": "YES"
+  },
+  {
+    "entity1": "punch ! master landscape & home design punch ! software 59.99",
+    "entity2": "punch software 20100 punch ! 5 in 1 home design punch software 35.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "sony acid pro 6 professional music workstation sony-pictures-digital-entertainment 499.95",
+    "entity2": "sibelius photoscore professional scanning software music production software sibelius-software-ltd . 179.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe photoshop elements 4.0 ( mac ) adobe 89.99",
+    "entity2": "adobe photoshop elements 4.0 photo-editing software for mac 85.95",
+    "label": "YES"
+  },
+  {
+    "entity1": "reel deal casino championship edition phantom efx 19.99",
+    "entity2": "phantom efx reel deal casino shuffle master edition 17.24",
+    "label": "NO"
+  },
+  {
+    "entity1": "panda internet security 2007 3-user panda software 69.95",
+    "entity2": "mcafee internet security suite 2007 3-user ( pc ) 89.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft excel 2004 ( mac ) microsoft 229.99",
+    "entity2": "microsoft ( r ) office ultimate 2007 539.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft office frontpage 2003 academic version windows ) microsoft 159.98",
+    "entity2": "microsoft ( r ) windows ( r ) xp professional edition with sp2 199.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft office excel 2007 microsoft 229.95",
+    "entity2": "microsoft microsoft office 2004 software suite mac apple & mac software 399.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "instant immersion 33 languages topics entertainment 49.99",
+    "entity2": "instant immersion 33 languages 47.36",
+    "label": "YES"
+  },
+  {
+    "entity1": "instant immersion german audio topics entertainment",
+    "entity2": "topics entertainment instant immersion ingles audio deluxe 17.55",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft publisher 2007 version upgrade microsoft 99.95",
+    "entity2": "microsoft excel 2007 ( pc ) 229.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft visual studio professional 2005 upgrade microsoft software 549.0",
+    "entity2": "microsoft windows vista home basic upgrade ( pc ) 99.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft word 2007 version upgrade microsoft 109.95",
+    "entity2": "microsoft ( r ) money 2007 premium 69.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "halo ( mac ) macsoft 29.99",
+    "entity2": ". mac ( mac ) apple 99.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "hp dss software v. 4.0 complete package t1936aa ua0 ) hewlett-packard - ( consumables ) 630.36",
+    "entity2": "passwords plus v. 1.0 complete package 28.5",
+    "label": "NO"
+  },
+  {
+    "entity1": "punch 5 in 1 home design punch ! software 39.99",
+    "entity2": "punch software 20100 punch ! 5 in 1 home design punch software 35.99",
+    "label": "YES"
+  },
+  {
+    "entity1": "punch ! home design architectura series 18 punch ! software 129.99",
+    "entity2": "punch software 26100 punch ! master landscape & home design architectural 1 user ( s ) pc 45.97",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe indesign cs3 upgrade from pagemaker adobe 199.0",
+    "entity2": "adobe contribute cs3 upgrade 82.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "learning quickbooks 2007 intuit 39.95",
+    "entity2": "quickbooks ( r ) 178.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe creative suite cs3 production premium upsell adobe 1199.0",
+    "entity2": "production prem cs3 mac upgrad 808.15",
+    "label": "NO"
+  },
+  {
+    "entity1": "musicalis guitar workshop global-software-publishing 9.99",
+    "entity2": "musicalis universal guitar workshop global-software-publishing 12.9",
+    "label": "YES"
+  },
+  {
+    "entity1": "mac os x server v10 .4.7 unlimited client apple 999.0",
+    "entity2": "apple apple mac os x server 10 4 7 10 client 499.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft office & windows training topics entertainment 29.99",
+    "entity2": "microsoft windows vista ultimate retail no open box returns 399.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "foreign policy & reform ( win/mac ) ( jewel case ) fogware publishing 9.99",
+    "entity2": "poetry fiction and drama ( win/mac ) ( jewel case ) ( 10172 ) 9.59",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft office small business 2007 full version microsoft 449.95",
+    "entity2": "microsoft office 2004 for students and teachers ( mac ) 134.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "emedia print music 2006 win/mac makemusic ! 69.99",
+    "entity2": "emedia music corp emedia guitar basics 16.64",
+    "label": "NO"
+  },
+  {
+    "entity1": "sibelius 4 professional edition sibelius-software-ltd . 599.99",
+    "entity2": "web easy ( r ) professional 6 49.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe photoshop elements 5.0 / premier elements 3.0 [ lb ] adobe 149.99",
+    "entity2": "adobe photoshop cs3 extended for mac 935.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "instant architect design suite imsi design 29.99",
+    "entity2": "encore inc 3d home architect landscape design deluxe v 9.0 25.49",
+    "label": "NO"
+  },
+  {
+    "entity1": "3d home architect landscape v. 8 by encore software encore software 39.99",
+    "entity2": "punch software master landscape professional & home design v 10.0 69.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe creative suite cs3 web standard [ mac ] adobe 999.0",
+    "entity2": "adobe creative suite 3 ( cs3 ) web standard 3 windows upsell from dreamweaver or flash 799.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "printshop home & office labels broderbund 19.95",
+    "entity2": "printshop 20 pro publisher 34.9",
+    "label": "NO"
+  },
+  {
+    "entity1": "3d home architect landscape design deluxe version 9 encore 29.99",
+    "entity2": "punch software 26100 punch ! master landscape and home design ( small box ) punch software 45.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft windows xp professional full version with sp2 microsoft 299.99",
+    "entity2": "microsoft ( r ) windows vista ( tm ) business 199.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft data analyzer 2002 microsoft 179.0",
+    "entity2": "microsoft office 2004 student/teacher 145.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "videostudio 11 plus corel",
+    "entity2": "video studio 11 plus corel corporation 103.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe after effects professional 7.0 adobe 999.0",
+    "entity2": "adobe acrobat v8 .0 professional for mac upgrade 145.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "microspot interiors microspot ltd. 99.95",
+    "entity2": "microspot macdraft pe personal edition 85.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "victorymul submitwolf version 6.0 swolf6r ) victory multimedia 149.99",
+    "entity2": "victory multimedia swolf6r submitwolf v6 .0 9x/me/nt / 2k/xp by trellian llc * free shipping * 145.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe photoshop elements 5.0 premiere elements 3.0 bundle adobe 149.99",
+    "entity2": "adobe photoshop elements 4.0 photo-editing software for mac 85.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe flash pro cs3 upgrade [ mac ] adobe 199.0",
+    "entity2": "adobe cs3 flash professional upgrade 205.99",
+    "label": "YES"
+  },
+  {
+    "entity1": "intuit quicken home inventory manager windows intuit 34.95",
+    "entity2": "intuit inc quicken home inventory manager 29.78",
+    "label": "YES"
+  },
+  {
+    "entity1": "adobe acrobat 7.0 professional adobe 449.99",
+    "entity2": "i copydvds 2 professional edition me-too-software 27.9",
+    "label": "NO"
+  },
+  {
+    "entity1": "reader rabbit learning system 1st grade encore software 29.99",
+    "entity2": "reader rabbit 1st grade 17.9",
+    "label": "YES"
+  },
+  {
+    "entity1": "microsoft crm small business ed cal 3.0 license pack user cal microsoft software 9929.0",
+    "entity2": "t74-00004 microsoft windows small business server 2003 license 20 additional user cals 1834.4",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe premiere pro cs3 upgrade adobe 299.0",
+    "entity2": "adobe contribute cs3 upgrade 82.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "acrobat professional 8 mac upsell standard-professional adobe 273.0",
+    "entity2": "resume maker professional 12 17.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "sonicwall global vpn client license 01-ssc-5310 ) sonic systems inc. .",
+    "entity2": "01-ssc-3363 sonicwall global management system standard edition license 10 nodes win 1835.31",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe creative suite cs3 design standard upgrade adobe 399.0",
+    "entity2": "adobe cs3 design premium upsell 1639.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "instant immersion spanish ( audio book ) topics entertainment",
+    "entity2": "classics the : the piano ( audio book ) 29.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "photo explosion deluxe 3.0 nova development 49.99",
+    "entity2": "print explosion deluxe 3.0 : mac 49.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft visio standard 2007 version upgrade microsoft 129.95",
+    "entity2": "microsoft ( r ) excel 2007 109.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "acrobat professional 8 mac upsell standard-professional adobe 273.0",
+    "entity2": "adobe acrobat v8 .0 professional for mac 405.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "3d home architect home v. 8 by encore software encore software 39.99",
+    "entity2": "encore software 13781 westward 17.97",
+    "label": "NO"
+  },
+  {
+    "entity1": "project x project management software marware 199.95",
+    "entity2": "apple remote desktop 3 desktop management software 10-client edition apple & mac software 279.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "instant immersion spanish deluxe 2.0 topics entertainment 49.99",
+    "entity2": "instant immersion italian platinum ( win 95 98 me nt 2000 xp ) 129.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "peachtree by sage premium accounting for manufacturing 2007 multi user ( up to 5 users ) sage software 1199.99",
+    "entity2": "laser checks for peachtree ( r ) accounting for windows 8.0-2005 106.29",
+    "label": "NO"
+  },
+  {
+    "entity1": "internet security barrier x4 antispam edition intego inc",
+    "entity2": "f89-00346 microsoft internet security and acceleration server enterprise edition license 537.72",
+    "label": "NO"
+  },
+  {
+    "entity1": "westward encore software 19.99",
+    "entity2": "encore software 13781 westward 17.97",
+    "label": "NO"
+  },
+  {
+    "entity1": "rainbow fish and the whale ( win/mac ) global-software-publishing 9.99",
+    "entity2": "rainbow fish and the whale 6.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft office 2004 professional ( mac ) microsoft 499.99",
+    "entity2": "office mac 2004 microsoft 731-01002 331.77",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft office excel 2007 microsoft 229.95",
+    "entity2": "designing forms with microsoft office infopath 2007 36.39",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe photoshop elements 5.0 premiere elements 3.0 bundle adobe 149.99",
+    "entity2": "adobe photoshop cs3 for mac 609.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe creative suite cs3 production premium upgrade adobe 799.0",
+    "entity2": "premiere pro cs3 mac upgrade 320.25",
+    "label": "NO"
+  },
+  {
+    "entity1": "instant immersion japanese deluxe 2.0 topics entertainment 39.99",
+    "entity2": "instant immersion translator deluxe 2.0 22.9",
+    "label": "NO"
+  },
+  {
+    "entity1": "micromat techtool pro 4 ( mac ) micromat 99.99",
+    "entity2": "micromat techtool protege utility with 1gb firewire flash drive 219.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe creative suite cs3 design premium upsell adobe 1599.0",
+    "entity2": "adobe cs3 production premium academic 569.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "instant immersion spanish 2.0 topics entertainment 29.99",
+    "entity2": "instant immersion translator deluxe 2.0 22.9",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe premiere pro cs3 adobe 799.0",
+    "entity2": "adobe premiere elements 3 ( pc ) 99.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe creative suite cs3 design premium upsell adobe 1599.0",
+    "entity2": "adobe creative suite 3 design standard complete package 1 user academic windows 369.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft office mac 2004 english 3pk dsp 731-01163 ) microsoft corporation",
+    "entity2": "microsoft office basic edition 2003 license and media 124.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "adobe contribute cs3 [ mac ] adobe 149.0",
+    "entity2": "adobe cs3 web standard upsell 819.99",
+    "label": "NO"
+  },
+  {
+    "entity1": "microsoft office small business 2007 full version microsoft 449.95",
+    "entity2": "microsoft ( r ) office ultimate 2007 539.95",
+    "label": "NO"
+  },
+  {
+    "entity1": "photo explosion 3.0 nova development 29.99",
+    "entity2": "prw photo explosion deluxe v. 3.0 complete package 1 user cd win 47.6",
+    "label": "NO"
+  }
+]

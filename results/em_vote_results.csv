@@ -1,0 +1,801 @@
+entity1,entity2,label,raw_response,prediction,correct
+microsoft visual studio test agent 2005 cd 1 processor license microsoft software 5099.0,individual software professor teaches microsoft office 2007 29.99,NO,"Expert_A_reason: The first entity is a Microsoft Visual Studio Test Agent software license, while the second is an Individual Software product for teaching Microsoft Office, so they are different products from different vendors.  
+Expert_A_vote: NO  
+Expert_B_reason: The entities refer to different software products, with one being a Microsoft development tool and the other an educational tool for Microsoft Office from a different company.  
+Expert_B_vote: NO  
+Expert_C_reason: The products have different names, purposes, and manufacturers, indicating they are not the same entity.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+adobe dreamweaver cs3 [ mac ] adobe 399.0,adobe cs3 web premium 1659.99,NO,"Expert_A_reason: Entity-1 refers specifically to Adobe Dreamweaver CS3 for Mac, while Entity-2 refers to the broader Adobe CS3 Web Premium suite, which may include Dreamweaver but is not the same product.
+Expert_A_vote: NO
+Expert_B_reason: Adobe Dreamweaver CS3 is a single application, whereas Adobe CS3 Web Premium is a suite containing multiple applications, so they are not the same entity.
+Expert_B_vote: NO
+Expert_C_reason: The first entity is a standalone software (Dreamweaver CS3), while the second is a software suite (CS3 Web Premium) that may include Dreamweaver but is not identical.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+instant immersion spanish 2.0 topics entertainment 29.99,instant immers japanese dlx 2 . 36.11,NO,"Expert_A_reason: The two entities have different languages (Spanish vs Japanese) and different product details.
+Expert_A_vote: NO
+Expert_B_reason: The product names indicate different languages and versions, so they are not the same entity.
+Expert_B_vote: NO
+Expert_C_reason: The entities refer to different language learning products (Spanish vs Japanese) with different prices.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+i transfer dvds 2 ipod edition ( win/mac ) me-too-software 29.99,ghost recon gold edition ( dvd-rom ) 20.95,NO,"Expert_A_reason: The first entity is software for transferring DVDs to iPod, while the second is a video game (Ghost Recon Gold Edition) on DVD-ROM.  
+Expert_A_vote: NO  
+Expert_B_reason: The products have different names, purposes, and prices, indicating they are not the same entity.  
+Expert_B_vote: NO  
+Expert_C_reason: One is a utility software for media transfer, and the other is a specific video game edition, so they are unrelated.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+adobe flash pro cs3 upgrade [ mac ] adobe 199.0,adobe illustrator cs3 ( mac ) 599.0,NO,"Expert_A_reason: The product names are different, with one being ""Adobe Flash Pro CS3"" and the other ""Adobe Illustrator CS3,"" which are distinct software products.
+Expert_A_vote: NO
+Expert_B_reason: Although both are Adobe products for Mac and CS3 versions, ""Flash Pro"" and ""Illustrator"" are separate applications.
+Expert_B_vote: NO
+Expert_C_reason: The entities refer to different Adobe software products (Flash Pro vs. Illustrator) despite similar versioning and platform.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+instant immersion ingles audio deluxe topics entertainment,instant immersion spanish deluxe 2.0 topics 39.99,NO,"Expert_A_reason: The first entity is for ""ingles audio deluxe"" (English), while the second is for ""spanish deluxe 2.0"", indicating different language products.  
+Expert_A_vote: NO  
+Expert_B_reason: The entities refer to different language versions (English vs. Spanish) and have different product details.  
+Expert_B_vote: NO  
+Expert_C_reason: The main distinction is that one is for English audio and the other for Spanish, so they are not the same entity.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+acrobat professional 8 ( windows ) adobe 273.0,web easy ( r ) professional 6 49.99,NO,"Expert_A_reason: The two entities have different product names, versions, and prices, indicating they are distinct software products.
+Expert_A_vote: NO
+Expert_B_reason: ""Acrobat Professional 8"" by Adobe and ""Web Easy (R) Professional 6"" are clearly different software with no overlap in function or branding.
+Expert_B_vote: NO
+Expert_C_reason: The entities refer to different software products from different companies with different purposes.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft licenses word olp c ( 05903871 ) microsoft licenses 205.73,microsoft office visio standard 2007 ( pc ) 249.95,NO,"Expert_A_reason: Entity-1 refers to a Microsoft Word license, while Entity-2 refers to Microsoft Office Visio Standard 2007, which are different products.
+Expert_A_vote: NO
+Expert_B_reason: The first entity is about a Microsoft Word license, and the second is about Microsoft Visio Standard 2007, so they are not the same.
+Expert_B_vote: NO
+Expert_C_reason: Entity-1 is for Microsoft Word, and Entity-2 is for Microsoft Visio, which are distinct software products.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft onenote 2007 upgrade microsoft 79.95,164-04052 microsoft office publisher 2007 version upgrade package 1 pc cd win en 88.8,NO,"Expert_A_reason: Entity-1 refers to Microsoft OneNote 2007 upgrade, while Entity-2 refers to Microsoft Office Publisher 2007 upgrade, which are different software products.
+Expert_A_vote: NO
+Expert_B_reason: The first entity is for OneNote 2007, and the second is for Publisher 2007, so they are not the same product.
+Expert_B_vote: NO
+Expert_C_reason: Although both are Microsoft Office 2007 upgrades, they are for different applications (OneNote vs. Publisher).
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+steinberg nuendo 3 digital audio software steinberg 2499.0,steinberg wavelab studio 6 audio editing software educational discount music production software 149.95,NO,"Expert_A_reason: The two entities refer to different Steinberg software products (Nuendo 3 vs. Wavelab Studio 6) with different purposes and prices.
+Expert_A_vote: NO
+Expert_B_reason: Although both are Steinberg audio software, they are distinct products with different names and functions.
+Expert_B_vote: NO
+Expert_C_reason: The product names and versions are different, indicating they are not the same entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+quickbooks point-of-sale basic 6.0 intuit 799.95,quickbooks pro 2007 3 user 409.52,NO,"Expert_A_reason: The first entity is a point-of-sale version of QuickBooks, while the second is a standard Pro version, indicating they are different products.  
+Expert_A_vote: NO  
+Expert_B_reason: The product names, versions, and intended uses are different, so they do not refer to the same entity.  
+Expert_B_vote: NO  
+Expert_C_reason: One is ""QuickBooks Point-of-Sale Basic 6.0"" and the other is ""QuickBooks Pro 2007 3 User,"" which are distinct products.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+microsoft visio standard 2007 microsoft 259.95,microsoft w87-02380 office sbe 2007 win32 400.34,NO,"Expert_A_reason: Entity-1 refers to Microsoft Visio Standard 2007, while Entity-2 refers to Microsoft Office Small Business Edition 2007, which are different products.
+Expert_A_vote: NO
+Expert_B_reason: The product names and SKUs indicate that one is Visio and the other is Office SBE, so they are not the same entity.
+Expert_B_vote: NO
+Expert_C_reason: Despite both being Microsoft products from 2007, Visio Standard and Office SBE are distinct software packages.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+quicken 2007 basic intuit 29.95,quicken ( r ) for mac 2007 69.99,NO,"Expert_A_reason: The first entity refers to ""Quicken 2007 Basic"" by Intuit, while the second refers to ""Quicken for Mac 2007,"" which may be a different edition and platform.
+Expert_A_vote: NO
+Expert_B_reason: The first entity specifies ""Basic"" and does not mention Mac, while the second is for Mac and does not specify ""Basic,"" suggesting they are different products.
+Expert_B_vote: NO
+Expert_C_reason: The product names differ in edition (""Basic"" vs. unspecified) and platform (Mac vs. unspecified), so they likely refer to different products.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft office 2004 professional ( mac ) microsoft 499.99,microsoft onenote 2007 ( pc ) 99.95,NO,"Expert_A_reason: The first entity is a full Microsoft Office suite for Mac from 2004, while the second is a single application (OneNote) for PC from 2007, so they are different products.
+Expert_A_vote: NO
+Expert_B_reason: The products differ in both version, platform, and scope (suite vs. single app), indicating they are not the same entity.
+Expert_B_vote: NO
+Expert_C_reason: One is a complete Office suite for Mac (2004), the other is just OneNote for PC (2007), so they are not the same.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+steinberg cubase 4 digital audio software steinberg 999.99,migo software digital file shredder 2005 24.58,NO,"Expert_A_reason: The first entity is a digital audio software called Steinberg Cubase 4, while the second is a file shredding software called Migo Software Digital File Shredder 2005, so they are different products.  
+Expert_A_vote: NO  
+Expert_B_reason: The entities have different names, functions, and prices, indicating they are not the same product.  
+Expert_B_vote: NO  
+Expert_C_reason: One is audio production software and the other is a file deletion tool, so they do not refer to the same entity.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+microsoft works suite 2006 microsoft 99.0,microsoft office 2004 student/teacher 145.99,NO,"Expert_A_reason: The two entities refer to different Microsoft software products (Works Suite 2006 vs. Office 2004 Student/Teacher) with different names and likely different functions.
+Expert_A_vote: NO
+Expert_B_reason: The product names and versions are distinct, indicating they are separate software suites from Microsoft.
+Expert_B_vote: NO
+Expert_C_reason: Although both are Microsoft products, they are different suites with different release years and target audiences.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+quicken legal business pro 2007 nolo press 79.99,palo alto business plan pro 2007 83.99,NO,"Expert_A_reason: The product names, publishers, and prices are different, indicating they are distinct software products.
+Expert_A_vote: NO
+Expert_B_reason: The entities have different names, publishers, and prices, so they do not refer to the same real-world entity.
+Expert_B_vote: NO
+Expert_C_reason: The titles, publishers, and prices do not match, suggesting these are two separate products.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+apple final cut studio 2 ( mac ) apple 1299.0,apple software m9372z/a final cut express 2.0 upgrade apple software 79.99,NO,"Expert_A_reason: The first entity is ""Final Cut Studio 2"" (a full suite), while the second is an ""Express 2.0 upgrade"" (a different, more limited product line and version).  
+Expert_A_vote: NO  
+Expert_B_reason: The products have different names, versions, and price points, indicating they are distinct software packages.  
+Expert_B_vote: NO  
+Expert_C_reason: ""Final Cut Studio 2"" and ""Final Cut Express 2.0 upgrade"" are separate Apple software products with different purposes and features.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+adobe acrobat 7.0 professional adobe 449.99,adobe after effects professional 7.0 software effects software 998.95,NO,"Expert_A_reason: The product names and descriptions indicate that one is ""Adobe Acrobat 7.0 Professional"" and the other is ""Adobe After Effects Professional 7.0,"" which are different Adobe software products.
+Expert_A_vote: NO
+Expert_B_reason: The entities refer to different Adobe products—Acrobat for PDFs and After Effects for video effects—despite similar version numbers.
+Expert_B_vote: NO
+Expert_C_reason: The names and functions of the software are distinct, with one being Acrobat and the other After Effects.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft powerpoint 2004 ( mac ) microsoft 229.99,microsoft money 2007 home and business ( pc ) 89.99,NO,"Expert_A_reason: The products have different names, versions, purposes, and platforms (PowerPoint for Mac vs. Money for PC).
+Expert_A_vote: NO
+Expert_B_reason: The entities refer to entirely different Microsoft software products with different functions and release years.
+Expert_B_vote: NO
+Expert_C_reason: One entity is a presentation software for Mac, while the other is financial software for PC, so they are not the same.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+adobe creative suite cs3 design premium [ mac ] adobe 1799.0,adobe cs3 design standard academic 385.99,NO,"Expert_A_reason: The two entities refer to different editions of Adobe CS3 (Design Premium vs. Design Standard Academic), which are distinct products.
+Expert_A_vote: NO
+Expert_B_reason: The product names indicate different versions (Design Premium for Mac vs. Design Standard Academic), so they are not the same entity.
+Expert_B_vote: NO
+Expert_C_reason: The entities differ in both edition (Premium vs. Standard) and license type (regular vs. academic), indicating they are not the same product.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+adobe cs3 design standard macosx dvd adobe 399.0,adobe cs3 design standard upgrade 413.99,NO,"Expert_A_reason: One is a standard version for MacOSX on DVD, while the other is an upgrade version, so they are not the same product.  
+Expert_A_vote: NO  
+Expert_B_reason: The first entity is a full version for MacOSX, while the second is specifically an upgrade, indicating they are different products.  
+Expert_B_vote: NO  
+Expert_C_reason: The difference between a full version and an upgrade means they are not the same real-world entity.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+professional home design suite platinum punch ! software 99.95,scrapbook designer platinum riverdeep-learning-company 17.9,NO,"Expert_A_reason: The product names, purposes, and companies are different, indicating they are unrelated software products.
+Expert_A_vote: NO
+Expert_B_reason: One entity is a home design software while the other is a scrapbook designer from a different company, so they are not the same.
+Expert_B_vote: NO
+Expert_C_reason: The names, functions, and associated companies of the two entities do not match.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+sims 2 glamour life stuff pack aspyr media 24.99,aspyr media inc sims 2 glamour life stuff pack 23.44,YES,"Expert_A_reason: Both entities refer to ""The Sims 2 Glamour Life Stuff Pack"" published by Aspyr Media, with only a minor price difference.
+Expert_A_vote: YES
+Expert_B_reason: The product name and publisher match exactly, and the small price difference does not indicate a different entity.
+Expert_B_vote: YES
+Expert_C_reason: Both entities describe the same game expansion pack from Aspyr Media, with only a slight variation in price.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,True
+microsoft office 2004 professional ( mac ) microsoft 499.99,diskeeper 2007 professional 46.95,NO,"Expert_A_reason: The two entities have different product names, versions, and prices, and are made by different companies.
+Expert_A_vote: NO
+Expert_B_reason: One entity is Microsoft Office 2004 for Mac, while the other is Diskeeper 2007 Professional, which are unrelated software products.
+Expert_B_vote: NO
+Expert_C_reason: The entities refer to completely different software products with no overlap in name, version, or manufacturer.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+final draft av 2.5 win/mac final draft 199.99,final-draft final draft av 2.5 screenwriting software mac/win screen writing software 199.95,YES,"Expert_A_reason: Both entities refer to ""Final Draft AV 2.5"" screenwriting software for Mac/Win with nearly identical prices.
+Expert_A_vote: YES
+Expert_B_reason: The product name, version, platform, and price are all highly similar, indicating they are the same entity.
+Expert_B_vote: YES
+Expert_C_reason: Both mention ""Final Draft AV 2.5"" for Mac/Win with almost the same price and purpose as screenwriting software.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,True
+punch ! master landscape & home design punch ! software 59.99,punch software 20100 punch ! 5 in 1 home design punch software 35.99,NO,"Expert_A_reason: Both entities refer to ""Punch! Software"" home design products but have different product names and prices, suggesting they are not the same exact product.  
+Expert_A_vote: NO  
+Expert_B_reason: The entities mention similar brands and product types but have different product titles and prices, indicating they are likely different products.  
+Expert_B_vote: NO  
+Expert_C_reason: Although both are from Punch! Software and relate to home design, the specific product names and prices differ, so they are not the same entity.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+sony acid pro 6 professional music workstation sony-pictures-digital-entertainment 499.95,sibelius photoscore professional scanning software music production software sibelius-software-ltd . 179.95,NO,"Expert_A_reason: The first entity is Sony ACID Pro 6 by Sony Pictures Digital Entertainment, while the second is Sibelius PhotoScore by Sibelius Software Ltd., which are different products from different companies.
+Expert_A_vote: NO
+Expert_B_reason: The entities have different product names, functions, and manufacturers, indicating they are not the same.
+Expert_B_vote: NO
+Expert_C_reason: One is a music workstation software from Sony and the other is a music scanning software from Sibelius, so they are distinct entities.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+adobe photoshop elements 4.0 ( mac ) adobe 89.99,adobe photoshop elements 4.0 photo-editing software for mac 85.95,YES,"Expert_A_reason: Both entities refer to ""Adobe Photoshop Elements 4.0"" for Mac, with only minor price differences.
+Expert_A_vote: YES
+Expert_B_reason: The product name, version, and platform (Mac) are identical, and the price difference is negligible.
+Expert_B_vote: YES
+Expert_C_reason: Both describe Adobe Photoshop Elements 4.0 for Mac, with similar pricing and purpose.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,True
+reel deal casino championship edition phantom efx 19.99,phantom efx reel deal casino shuffle master edition 17.24,NO,"Expert_A_reason: Both entities refer to ""Reel Deal Casino"" games by Phantom EFX but have different edition names and prices, suggesting they are different products.
+Expert_A_vote: NO
+Expert_B_reason: The titles share the same series and publisher but specify different editions (""Championship"" vs ""Shuffle Master""), indicating they are not the same entity.
+Expert_B_vote: NO
+Expert_C_reason: Although both are Phantom EFX Reel Deal Casino games, the edition names differ, so they are not the same entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+panda internet security 2007 3-user panda software 69.95,mcafee internet security suite 2007 3-user ( pc ) 89.99,NO,"Expert_A_reason: The two entities are different products from different brands (Panda Software vs. McAfee) despite both being 3-user internet security suites from 2007.
+Expert_A_vote: NO
+Expert_B_reason: The entities have different product names, brands, and prices, indicating they are not the same real-world entity.
+Expert_B_vote: NO
+Expert_C_reason: Although both are 3-user internet security suites from 2007, they are made by different companies (Panda and McAfee).
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft excel 2004 ( mac ) microsoft 229.99,microsoft ( r ) office ultimate 2007 539.95,NO,"Expert_A_reason: Entity-1 refers specifically to Microsoft Excel 2004 for Mac, while Entity-2 refers to Microsoft Office Ultimate 2007, which is a different product and version.
+Expert_A_vote: NO
+Expert_B_reason: The first entity is a standalone Excel product for Mac from 2004, while the second is a full Office suite from 2007, so they are not the same.
+Expert_B_vote: NO
+Expert_C_reason: The products differ in both version, platform, and scope (Excel vs. Office suite), indicating they are not the same entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft office frontpage 2003 academic version windows ) microsoft 159.98,microsoft ( r ) windows ( r ) xp professional edition with sp2 199.99,NO,"Expert_A_reason: Entity-1 refers to Microsoft Office FrontPage 2003 (an application), while Entity-2 refers to Microsoft Windows XP Professional Edition (an operating system), which are distinct products.
+Expert_A_vote: NO
+Expert_B_reason: The first entity is a specific version of Microsoft Office FrontPage, whereas the second is a version of the Windows XP operating system, so they are not the same.
+Expert_B_vote: NO
+Expert_C_reason: The products described are different: one is a web design software (FrontPage 2003), the other is an operating system (Windows XP Professional).
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft office excel 2007 microsoft 229.95,microsoft microsoft office 2004 software suite mac apple & mac software 399.95,NO,"Expert_A_reason: The first entity refers to Microsoft Office Excel 2007 (a Windows product), while the second refers to Microsoft Office 2004 for Mac, which are different products for different platforms and versions.
+Expert_A_vote: NO
+Expert_B_reason: The entities refer to different versions (2007 vs 2004) and different platforms (Windows vs Mac), so they are not the same.
+Expert_B_vote: NO
+Expert_C_reason: One entity is specifically Excel 2007 for Windows, the other is the Office 2004 suite for Mac, so they are not the same product.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+instant immersion 33 languages topics entertainment 49.99,instant immersion 33 languages 47.36,YES,"Expert_A_reason: Both entities refer to ""instant immersion 33 languages"" and the price difference is minor, likely due to retailer variation, while the extra words in Entity-1 seem descriptive.  
+Expert_A_vote: YES  
+Expert_B_reason: The core product ""instant immersion 33 languages"" matches exactly, and the price difference is small and likely not significant.  
+Expert_B_vote: YES  
+Expert_C_reason: Despite the slight price difference and extra descriptive terms in Entity-1, both refer to the same language learning product.  
+Expert_C_vote: YES  
+Vote_Count: 3/3 YES  
+Final_Decision: YES",YES,True
+instant immersion german audio topics entertainment,topics entertainment instant immersion ingles audio deluxe 17.55,NO,"Expert_A_reason: The first entity is about a German audio product, while the second is about an English (Ingles) audio product, so they refer to different language versions.
+Expert_A_vote: NO
+Expert_B_reason: The entities have similar structure and branding (""instant immersion"" and ""topics entertainment""), but one is for German and the other for English, indicating they are different products.
+Expert_B_vote: NO
+Expert_C_reason: Despite sharing some keywords, the language difference (German vs. Ingles/English) means they are not the same entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft publisher 2007 version upgrade microsoft 99.95,microsoft excel 2007 ( pc ) 229.95,NO,"Expert_A_reason: Entity-1 refers to Microsoft Publisher 2007 upgrade, while Entity-2 refers to Microsoft Excel 2007, which are different software products.
+Expert_A_vote: NO
+Expert_B_reason: The first entity is about Microsoft Publisher 2007 upgrade, and the second is about Microsoft Excel 2007, so they are not the same product.
+Expert_B_vote: NO
+Expert_C_reason: Microsoft Publisher and Microsoft Excel are distinct applications, as indicated by their names and descriptions.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft visual studio professional 2005 upgrade microsoft software 549.0,microsoft windows vista home basic upgrade ( pc ) 99.99,NO,"Expert_A_reason: Entity-1 is a software development tool (Visual Studio), while Entity-2 is an operating system (Windows Vista), so they are different products.
+Expert_A_vote: NO
+Expert_B_reason: The first entity refers to Visual Studio Professional 2005, and the second refers to Windows Vista Home Basic, which are distinct Microsoft products.
+Expert_B_vote: NO
+Expert_C_reason: Although both are Microsoft software upgrades, one is for Visual Studio and the other is for Windows Vista, so they are not the same entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft word 2007 version upgrade microsoft 109.95,microsoft ( r ) money 2007 premium 69.99,NO,"Expert_A_reason: Entity-1 refers to Microsoft Word 2007 upgrade, while Entity-2 refers to Microsoft Money 2007 Premium, which are different products.
+Expert_A_vote: NO
+Expert_B_reason: The first entity is about Microsoft Word 2007, and the second is about Microsoft Money 2007 Premium, so they are not the same.
+Expert_B_vote: NO
+Expert_C_reason: The entities refer to different Microsoft software products (Word vs. Money) and have different prices.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+halo ( mac ) macsoft 29.99,. mac ( mac ) apple 99.99,NO,"Expert_A_reason: The product names ""halo"" and ""."" are different, and the prices and brands do not match.
+Expert_A_vote: NO
+Expert_B_reason: The entities have different product names, brands, and prices, indicating they are not the same.
+Expert_B_vote: NO
+Expert_C_reason: The only similarity is the platform ""(mac)"", but the product names, brands, and prices are all different.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+hp dss software v. 4.0 complete package t1936aa ua0 ) hewlett-packard - ( consumables ) 630.36,passwords plus v. 1.0 complete package 28.5,NO,"Expert_A_reason: The product names, versions, and descriptions are completely different, indicating they are distinct software packages.
+Expert_A_vote: NO
+Expert_B_reason: The entities have different names, versions, and likely serve different purposes, so they are not the same.
+Expert_B_vote: NO
+Expert_C_reason: The titles, version numbers, and product details do not match between the two entities.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+punch 5 in 1 home design punch ! software 39.99,punch software 20100 punch ! 5 in 1 home design punch software 35.99,YES,"Expert_A_reason: Both entities refer to ""Punch! 5 in 1 Home Design Punch"" software with similar names and only minor price differences.
+Expert_A_vote: YES
+Expert_B_reason: The product names and descriptions are nearly identical, with only slight variation in price and extra numbers that do not indicate a different product.
+Expert_B_vote: YES
+Expert_C_reason: Both entities describe the same ""Punch! 5 in 1 Home Design Punch"" software, with only minor differences in price and formatting.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,True
+punch ! home design architectura series 18 punch ! software 129.99,punch software 26100 punch ! master landscape & home design architectural 1 user ( s ) pc 45.97,NO,"Expert_A_reason: Both entities refer to Punch! Software products related to home and architectural design, but the product names and versions differ significantly.
+Expert_A_vote: NO
+Expert_B_reason: The first entity is ""architectura series 18"" while the second is ""master landscape & home design architectural,"" indicating different product lines or versions.
+Expert_B_vote: NO
+Expert_C_reason: Despite both being Punch! Software home design products, the specific product names and details do not match.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+adobe indesign cs3 upgrade from pagemaker adobe 199.0,adobe contribute cs3 upgrade 82.99,NO,"Expert_A_reason: The two entities refer to different Adobe products (InDesign vs. Contribute) and have different prices.
+Expert_A_vote: NO
+Expert_B_reason: The product names and upgrade paths are different, indicating they are not the same entity.
+Expert_B_vote: NO
+Expert_C_reason: One entity is for Adobe InDesign CS3 (upgrade from PageMaker) and the other is for Adobe Contribute CS3, which are distinct products.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+learning quickbooks 2007 intuit 39.95,quickbooks ( r ) 178.99,NO,"Expert_A_reason: Entity-1 refers to a learning resource for QuickBooks 2007 by Intuit, while Entity-2 refers to a QuickBooks product (possibly software) at a much higher price, suggesting they are not the same.  
+Expert_A_vote: NO  
+Expert_B_reason: The first entity appears to be a training or educational product for QuickBooks 2007, whereas the second is likely the QuickBooks software itself, indicated by the price difference and lack of ""learning"" in Entity-2.  
+Expert_B_vote: NO  
+Expert_C_reason: The descriptions and prices indicate that Entity-1 is a learning resource for QuickBooks 2007, while Entity-2 is a QuickBooks software product, so they are not the same entity.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+adobe creative suite cs3 production premium upsell adobe 1199.0,production prem cs3 mac upgrad 808.15,NO,"Expert_A_reason: Both entities refer to Adobe Creative Suite CS3 Production Premium and mention upgrade/upsell versions, despite slight differences in wording and price.
+Expert_A_vote: YES
+Expert_B_reason: The names indicate both are upgrade versions of Adobe CS3 Production Premium, likely for Mac, with price differences possibly due to market or condition.
+Expert_B_vote: YES
+Expert_C_reason: Both entities describe upgrade versions of Adobe CS3 Production Premium, with similar product focus but different price points.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,False
+musicalis guitar workshop global-software-publishing 9.99,musicalis universal guitar workshop global-software-publishing 12.9,YES,"Expert_A_reason: Both entities share the same publisher and similar product names, differing only by ""guitar workshop"" vs ""universal guitar workshop"" and price, which suggests they are likely variants of the same product.
+Expert_A_vote: YES
+Expert_B_reason: The titles are nearly identical except for the addition of ""universal"" in Entity-2, and both are published by ""global-software-publishing,"" indicating they likely refer to the same entity despite the price difference.
+Expert_B_vote: YES
+Expert_C_reason: The product names are very similar and have the same publisher, but the price and the word ""universal"" could indicate a different edition or version.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,True
+mac os x server v10 .4.7 unlimited client apple 999.0,apple apple mac os x server 10 4 7 10 client 499.0,NO,"Expert_A_reason: Both entities refer to Apple Mac OS X Server version 10.4.7, but the client limits (unlimited vs 10) and prices differ significantly.
+Expert_A_vote: NO
+Expert_B_reason: The entities have the same product name and version but differ in the number of clients (unlimited vs 10) and price, indicating different product editions.
+Expert_B_vote: NO
+Expert_C_reason: Although both are Apple Mac OS X Server 10.4.7, the client limits and prices are different, suggesting they are not the same product.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft office & windows training topics entertainment 29.99,microsoft windows vista ultimate retail no open box returns 399.99,NO,"Expert_A_reason: The first entity refers to training topics for Microsoft Office and Windows, while the second refers to a specific retail product (Windows Vista Ultimate), so they are not the same entity.
+Expert_A_vote: NO
+Expert_B_reason: One entity is about training/entertainment related to Microsoft products, and the other is a boxed retail version of Windows Vista Ultimate, which are different things.
+Expert_B_vote: NO
+Expert_C_reason: The first entity describes a training or entertainment product, while the second is a software retail package, so they do not refer to the same entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+foreign policy & reform ( win/mac ) ( jewel case ) fogware publishing 9.99,poetry fiction and drama ( win/mac ) ( jewel case ) ( 10172 ) 9.59,NO,"Expert_A_reason: The titles and content descriptions are completely different, indicating they are different products despite similar formats and platforms.
+Expert_A_vote: NO
+Expert_B_reason: The subject matter (""foreign policy & reform"" vs ""poetry fiction and drama"") is unrelated, so these are not the same entity.
+Expert_B_vote: NO
+Expert_C_reason: Although both are software for Win/Mac in jewel cases, the titles and topics are distinct, suggesting they are different products.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft office small business 2007 full version microsoft 449.95,microsoft office 2004 for students and teachers ( mac ) 134.99,NO,"Expert_A_reason: The two entities refer to different versions and editions of Microsoft Office, released in different years and for different user groups and platforms.
+Expert_A_vote: NO
+Expert_B_reason: One entity is Microsoft Office 2007 Small Business (likely for Windows), while the other is Microsoft Office 2004 for Students and Teachers (Mac), so they are distinct products.
+Expert_B_vote: NO
+Expert_C_reason: The products differ in version year, target audience, and operating system compatibility.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+emedia print music 2006 win/mac makemusic ! 69.99,emedia music corp emedia guitar basics 16.64,NO,"Expert_A_reason: The product names and descriptions are different, with one referring to ""print music"" software and the other to ""guitar basics,"" and the prices are also different.
+Expert_A_vote: NO
+Expert_B_reason: Although both entities mention ""emedia,"" the products and their details do not match, indicating they are different items.
+Expert_B_vote: NO
+Expert_C_reason: The first entity is about ""print music"" software for Win/Mac, while the second is about ""guitar basics,"" suggesting they are not the same entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+sibelius 4 professional edition sibelius-software-ltd . 599.99,web easy ( r ) professional 6 49.99,NO,"Expert_A_reason: The product names, versions, and prices are completely different, indicating they are distinct software products.
+Expert_A_vote: NO
+Expert_B_reason: ""Sibelius 4 Professional Edition"" and ""Web Easy (R) Professional 6"" are different software titles from different companies.
+Expert_B_vote: NO
+Expert_C_reason: The entities refer to different software products with different names, versions, and likely purposes.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+adobe photoshop elements 5.0 / premier elements 3.0 [ lb ] adobe 149.99,adobe photoshop cs3 extended for mac 935.99,NO,"Expert_A_reason: The first entity refers to a bundle of Adobe Photoshop Elements 5.0 and Premiere Elements 3.0, while the second refers to Adobe Photoshop CS3 Extended for Mac, which are different products and versions.
+Expert_A_vote: NO
+Expert_B_reason: The products listed are different versions and editions of Adobe software, with one being a bundle and the other a standalone advanced version for Mac.
+Expert_B_vote: NO
+Expert_C_reason: The names, versions, and product types differ significantly between the two entities.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+instant architect design suite imsi design 29.99,encore inc 3d home architect landscape design deluxe v 9.0 25.49,NO,"Expert_A_reason: The product names, publishers (IMSI Design vs. Encore Inc), and versions/prices are different, indicating they are not the same entity.
+Expert_A_vote: NO
+Expert_B_reason: The two entities have different publishers and product names, suggesting they are distinct products.
+Expert_B_vote: NO
+Expert_C_reason: The entities have different brands, product titles, and versions, so they do not refer to the same real-world entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+3d home architect landscape v. 8 by encore software encore software 39.99,punch software master landscape professional & home design v 10.0 69.99,NO,"Expert_A_reason: The entities have different software names, versions, and publishers, indicating they are distinct products.
+Expert_A_vote: NO
+Expert_B_reason: The products are from different companies (Encore Software vs. Punch Software) and have different names and versions.
+Expert_B_vote: NO
+Expert_C_reason: The titles, publishers, and version numbers are all different, so they do not refer to the same entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+adobe creative suite cs3 web standard [ mac ] adobe 999.0,adobe creative suite 3 ( cs3 ) web standard 3 windows upsell from dreamweaver or flash 799.0,NO,"Expert_A_reason: Both entities refer to Adobe Creative Suite 3 Web Standard, but one is for Mac and the other is for Windows with an upsell condition, so they are not the same product.  
+Expert_A_vote: NO  
+Expert_B_reason: The entities differ in operating system (Mac vs. Windows) and one is an upsell version, indicating they are not the same real-world entity.  
+Expert_B_vote: NO  
+Expert_C_reason: Although both are Adobe Creative Suite 3 Web Standard, the platform (Mac vs. Windows) and upsell condition make them distinct products.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+printshop home & office labels broderbund 19.95,printshop 20 pro publisher 34.9,NO,"Expert_A_reason: The product names are similar but the versions and descriptions differ, indicating they are different products in the same family.
+Expert_A_vote: NO
+Expert_B_reason: Although both are ""printshop"" products, the versions (""home & office labels broderbund"" vs ""20 pro publisher"") and prices are different.
+Expert_B_vote: NO
+Expert_C_reason: The entities refer to different versions and types of PrintShop software, so they are not the same entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+3d home architect landscape design deluxe version 9 encore 29.99,punch software 26100 punch ! master landscape and home design ( small box ) punch software 45.99,NO,"Expert_A_reason: The product names, publishers (Encore vs. Punch Software), and prices are different, indicating they are not the same entity.
+Expert_A_vote: NO
+Expert_B_reason: The two entities have different software names, publishers, and prices, suggesting they are distinct products.
+Expert_B_vote: NO
+Expert_C_reason: The titles, publishers, and product details do not match, so they are not the same entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft windows xp professional full version with sp2 microsoft 299.99,microsoft ( r ) windows vista ( tm ) business 199.99,NO,"Expert_A_reason: The first entity is Windows XP Professional with SP2, while the second is Windows Vista Business, which are different versions of Microsoft's operating system.
+Expert_A_vote: NO
+Expert_B_reason: The entities refer to different products, as one is Windows XP Professional and the other is Windows Vista Business.
+Expert_B_vote: NO
+Expert_C_reason: Windows XP Professional and Windows Vista Business are distinct Microsoft operating system versions released at different times.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft data analyzer 2002 microsoft 179.0,microsoft office 2004 student/teacher 145.99,NO,"Expert_A_reason: The product names and versions are different, with one being ""Data Analyzer 2002"" and the other ""Office 2004 Student/Teacher,"" indicating they are distinct products.  
+Expert_A_vote: NO  
+Expert_B_reason: The entities refer to different Microsoft software products with different release years and purposes.  
+Expert_B_vote: NO  
+Expert_C_reason: The names, versions, and prices all differ, showing these are separate Microsoft products.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+videostudio 11 plus corel,video studio 11 plus corel corporation 103.99,NO,"Expert_A_reason: Both entities refer to ""VideoStudio 11 Plus"" by Corel, with the second entity including the company name and a price, but no conflicting information.
+Expert_A_vote: YES
+Expert_B_reason: The names, version, and publisher match, and the price in Entity-2 does not indicate a different product.
+Expert_B_vote: YES
+Expert_C_reason: Both entities describe the same software product (VideoStudio 11 Plus by Corel), with Entity-2 providing extra details.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,False
+adobe after effects professional 7.0 adobe 999.0,adobe acrobat v8 .0 professional for mac upgrade 145.99,NO,"Expert_A_reason: The first entity refers to Adobe After Effects Professional 7.0, while the second refers to Adobe Acrobat 8.0 Professional for Mac, which are different Adobe products.
+Expert_A_vote: NO
+Expert_B_reason: The product names and versions are different, with one being After Effects and the other being Acrobat.
+Expert_B_vote: NO
+Expert_C_reason: These entities refer to two distinct Adobe software products with different purposes and versions.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microspot interiors microspot ltd. 99.95,microspot macdraft pe personal edition 85.99,NO,"Expert_A_reason: Entity-1 refers to a company (microspot interiors microspot ltd.) while Entity-2 refers to a specific software product (microspot macdraft pe personal edition), so they are not the same entity.
+Expert_A_vote: NO
+Expert_B_reason: The first entity appears to be a business or company, whereas the second is a product with a different name and price, indicating they are not the same.
+Expert_B_vote: NO
+Expert_C_reason: The names and context suggest Entity-1 is a company and Entity-2 is a software product, so they do not refer to the same real-world entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+victorymul submitwolf version 6.0 swolf6r ) victory multimedia 149.99,victory multimedia swolf6r submitwolf v6 .0 9x/me/nt / 2k/xp by trellian llc * free shipping * 145.0,NO,"Expert_A_reason: Both entities mention ""victory multimedia,"" ""submitwolf,"" ""swolf6r,"" and version 6.0, indicating they refer to the same software product.
+Expert_A_vote: YES
+Expert_B_reason: The product names, version numbers, and unique identifiers like ""swolf6r"" match closely, despite minor price differences.
+Expert_B_vote: YES
+Expert_C_reason: Both entities describe ""Victory Multimedia SubmitWolf"" version 6.0 with the same code ""swolf6r,"" suggesting they are the same entity.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,False
+adobe photoshop elements 5.0 premiere elements 3.0 bundle adobe 149.99,adobe photoshop elements 4.0 photo-editing software for mac 85.95,NO,"Expert_A_reason: The two entities refer to different versions of Adobe Photoshop Elements and include different bundled products and prices.  
+Expert_A_vote: NO  
+Expert_B_reason: One entity is a bundle of Photoshop Elements 5.0 and Premiere Elements 3.0, while the other is Photoshop Elements 4.0 for Mac only.  
+Expert_B_vote: NO  
+Expert_C_reason: The products differ in version numbers, included software, and platform, indicating they are not the same entity.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+adobe flash pro cs3 upgrade [ mac ] adobe 199.0,adobe cs3 flash professional upgrade 205.99,YES,"Expert_A_reason: Both entities refer to an upgrade version of Adobe Flash Professional CS3, with only minor differences in price and platform detail.
+Expert_A_vote: YES
+Expert_B_reason: The product names indicate both are upgrades for Adobe Flash Professional CS3, despite slight wording and price differences.
+Expert_B_vote: YES
+Expert_C_reason: Both entities describe an upgrade for Adobe Flash Pro CS3, with only minor variations in price and platform specification.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,True
+intuit quicken home inventory manager windows intuit 34.95,intuit inc quicken home inventory manager 29.78,YES,"Expert_A_reason: Both entities refer to ""Intuit Quicken Home Inventory Manager"" software from Intuit, with only minor differences in price and wording.
+Expert_A_vote: YES
+Expert_B_reason: The product name and company match exactly, and the price difference is minor and likely due to retailer or time differences.
+Expert_B_vote: YES
+Expert_C_reason: Both entities describe the same software product from Intuit, with only slight variation in price and description details.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,True
+adobe acrobat 7.0 professional adobe 449.99,i copydvds 2 professional edition me-too-software 27.9,NO,"Expert_A_reason: The product names, publishers, and prices are completely different, indicating they are distinct software products.
+Expert_A_vote: NO
+Expert_B_reason: ""Adobe Acrobat 7.0 Professional"" by Adobe and ""i copydvds 2 professional edition"" by Me-Too-Software are different products from different companies.
+Expert_B_vote: NO
+Expert_C_reason: The entities have different names, publishers, and price points, so they do not refer to the same entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+reader rabbit learning system 1st grade encore software 29.99,reader rabbit 1st grade 17.9,YES,"Expert_A_reason: Both entities refer to ""Reader Rabbit 1st Grade"" educational software, with minor differences in price and additional descriptors.
+Expert_A_vote: YES
+Expert_B_reason: The core product ""Reader Rabbit 1st Grade"" is present in both, despite one mentioning ""Encore Software"" and a price difference.
+Expert_B_vote: YES
+Expert_C_reason: Both entities describe the same ""Reader Rabbit 1st Grade"" learning system, with only slight variations in details and price.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,True
+microsoft crm small business ed cal 3.0 license pack user cal microsoft software 9929.0,t74-00004 microsoft windows small business server 2003 license 20 additional user cals 1834.4,NO,"Expert_A_reason: Entity-1 refers to a Microsoft CRM Small Business Edition user CAL license pack, while Entity-2 refers to additional user CALs for Microsoft Windows Small Business Server 2003, which are different products.  
+Expert_A_vote: NO  
+Expert_B_reason: The first entity is for Microsoft CRM software licenses, and the second is for Windows Small Business Server user CALs, so they are not the same product.  
+Expert_B_vote: NO  
+Expert_C_reason: Although both are Microsoft user CAL license packs, one is for CRM Small Business Edition and the other for Windows Small Business Server 2003, which are distinct products.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+adobe premiere pro cs3 upgrade adobe 299.0,adobe contribute cs3 upgrade 82.99,NO,"Expert_A_reason: The two entities refer to different Adobe products (""Premiere Pro"" vs ""Contribute"") and have different prices.
+Expert_A_vote: NO
+Expert_B_reason: The product names and prices are different, indicating they are not the same entity.
+Expert_B_vote: NO
+Expert_C_reason: ""Adobe Premiere Pro CS3"" and ""Adobe Contribute CS3"" are distinct software products despite both being upgrades.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+acrobat professional 8 mac upsell standard-professional adobe 273.0,resume maker professional 12 17.95,NO,"Expert_A_reason: The first entity refers to Adobe Acrobat Professional 8 for Mac, while the second refers to Resume Maker Professional 12, which are different software products.  
+Expert_A_vote: NO  
+Expert_B_reason: The names, versions, and purposes of the two products are completely different, indicating they are not the same entity.  
+Expert_B_vote: NO  
+Expert_C_reason: One entity is a PDF software by Adobe and the other is a resume creation tool, so they are unrelated.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+sonicwall global vpn client license 01-ssc-5310 ) sonic systems inc. .,01-ssc-3363 sonicwall global management system standard edition license 10 nodes win 1835.31,NO,"Expert_A_reason: The first entity is a license for SonicWall Global VPN Client, while the second is a license for SonicWall Global Management System, which are different products.
+Expert_A_vote: NO
+Expert_B_reason: The product names and license codes are different, indicating they refer to separate software products from SonicWall.
+Expert_B_vote: NO
+Expert_C_reason: The entities have different product names, license codes, and purposes, so they are not the same.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+adobe creative suite cs3 design standard upgrade adobe 399.0,adobe cs3 design premium upsell 1639.99,NO,"Expert_A_reason: The first entity is ""Adobe Creative Suite CS3 Design Standard Upgrade"" while the second is ""Adobe CS3 Design Premium Upsell,"" which are different product editions and types.  
+Expert_A_vote: NO  
+Expert_B_reason: The entities refer to different editions (""Standard"" vs ""Premium"") and different types of licenses (""Upgrade"" vs ""Upsell"").  
+Expert_B_vote: NO  
+Expert_C_reason: The product names indicate different editions and upgrade paths, so they are not the same entity.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+instant immersion spanish ( audio book ) topics entertainment,classics the : the piano ( audio book ) 29.95,NO,"Expert_A_reason: The first entity is an audio book for learning Spanish, while the second is an audio book about piano classics, so they are different topics and products.
+Expert_A_vote: NO
+Expert_B_reason: The titles, subjects, and likely content of the two audio books are completely unrelated.
+Expert_B_vote: NO
+Expert_C_reason: One entity is about Spanish language learning and the other is about piano classics, indicating they are not the same.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+photo explosion deluxe 3.0 nova development 49.99,print explosion deluxe 3.0 : mac 49.99,NO,"Expert_A_reason: The product names differ (""photo explosion deluxe"" vs ""print explosion deluxe""), suggesting they are different products despite similar version and price.
+Expert_A_vote: NO
+Expert_B_reason: Although both are version 3.0 from Nova Development and priced the same, the core product names (""photo"" vs ""print"") indicate they are distinct software.
+Expert_B_vote: NO
+Expert_C_reason: The difference in product names (""photo explosion deluxe"" vs ""print explosion deluxe"") implies they are separate products, even if other details match.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft visio standard 2007 version upgrade microsoft 129.95,microsoft ( r ) excel 2007 109.99,NO,"Expert_A_reason: Entity-1 refers to Microsoft Visio Standard 2007 (an upgrade version), while Entity-2 refers to Microsoft Excel 2007, which are different software products.
+Expert_A_vote: NO
+Expert_B_reason: The first entity is for Visio Standard 2007 upgrade, and the second is for Excel 2007, so they are distinct products.
+Expert_B_vote: NO
+Expert_C_reason: Microsoft Visio and Microsoft Excel are separate applications, as indicated by their names and descriptions.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+acrobat professional 8 mac upsell standard-professional adobe 273.0,adobe acrobat v8 .0 professional for mac 405.99,NO,"Expert_A_reason: Both entities refer to Adobe Acrobat Professional version 8 for Mac, despite minor differences in wording and price.
+Expert_A_vote: YES
+Expert_B_reason: The product name, version (8), edition (Professional), and platform (Mac) all match between the two entities.
+Expert_B_vote: YES
+Expert_C_reason: Both entities describe Adobe Acrobat Professional 8 for Mac, with only minor differences in description and price.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,False
+3d home architect home v. 8 by encore software encore software 39.99,encore software 13781 westward 17.97,NO,"Expert_A_reason: Although both entities mention ""Encore Software,"" the first refers to a specific software product and version, while the second appears to reference a different product or SKU (""13781 westward"") and a different price.
+Expert_A_vote: NO
+Expert_B_reason: The first entity is about ""3d home architect home v. 8"" by Encore Software, while the second lists ""13781 westward,"" which does not clearly relate to the same product.
+Expert_B_vote: NO
+Expert_C_reason: The only commonality is the company name ""Encore Software,"" but the products and details are different.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+project x project management software marware 199.95,apple remote desktop 3 desktop management software 10-client edition apple & mac software 279.95,NO,"Expert_A_reason: The two entities have different names, functions, and prices, indicating they are distinct software products.
+Expert_A_vote: NO
+Expert_B_reason: One entity is project management software called ""project x"" by Marware, while the other is remote desktop management software by Apple, so they are not the same.
+Expert_B_vote: NO
+Expert_C_reason: The products serve different purposes and are from different vendors, so they do not refer to the same entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+instant immersion spanish deluxe 2.0 topics entertainment 49.99,instant immersion italian platinum ( win 95 98 me nt 2000 xp ) 129.99,NO,"Expert_A_reason: The two entities are different language learning products (Spanish vs. Italian) with different versions and prices.
+Expert_A_vote: NO
+Expert_B_reason: The products differ in language (Spanish vs. Italian), edition (Deluxe 2.0 vs. Platinum), and price.
+Expert_B_vote: NO
+Expert_C_reason: The entities refer to different language courses and have distinct product details.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+peachtree by sage premium accounting for manufacturing 2007 multi user ( up to 5 users ) sage software 1199.99,laser checks for peachtree ( r ) accounting for windows 8.0-2005 106.29,NO,"Expert_A_reason: Entity-1 is accounting software, while Entity-2 is a type of check paper compatible with the software, so they are different products.  
+Expert_A_vote: NO  
+Expert_B_reason: The first entity is a software product, and the second is a consumable (laser checks) designed to work with that software, not the same entity.  
+Expert_B_vote: NO  
+Expert_C_reason: Although both entities are related to Peachtree accounting, one is the software itself and the other is a compatible accessory, so they are not the same entity.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+internet security barrier x4 antispam edition intego inc,f89-00346 microsoft internet security and acceleration server enterprise edition license 537.72,NO,"Expert_A_reason: The first entity is an antispam product from Intego Inc, while the second is a Microsoft security server product, so they are different products from different companies.
+Expert_A_vote: NO
+Expert_B_reason: The names, editions, and companies of the two products are completely different, indicating they are not the same entity.
+Expert_B_vote: NO
+Expert_C_reason: One entity is an Intego antispam software and the other is a Microsoft server security product, so they do not refer to the same entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+westward encore software 19.99,encore software 13781 westward 17.97,NO,"Expert_A_reason: Both entities mention ""Encore Software"" and ""Westward,"" suggesting they refer to the same product, with only minor differences in price and possible product code.
+Expert_A_vote: YES
+Expert_B_reason: The entities share the same brand (""Encore Software"") and product name (""Westward""), with price differences likely due to retailer or listing variations.
+Expert_B_vote: YES
+Expert_C_reason: Both entities reference ""Encore Software"" and ""Westward,"" indicating they are likely the same product despite different prices and the presence of a number in Entity-2.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,False
+rainbow fish and the whale ( win/mac ) global-software-publishing 9.99,rainbow fish and the whale 6.95,NO,"Expert_A_reason: Both entities refer to ""rainbow fish and the whale"" and the price difference can be due to platform or seller, so they likely refer to the same product.
+Expert_A_vote: YES
+Expert_B_reason: The titles are identical and the only differences are price and platform information, which do not indicate different entities.
+Expert_B_vote: YES
+Expert_C_reason: Despite the price and platform details, both entities describe the same title, suggesting they are the same entity.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,False
+microsoft office 2004 professional ( mac ) microsoft 499.99,office mac 2004 microsoft 731-01002 331.77,NO,"Expert_A_reason: Both entities refer to Microsoft Office 2004 for Mac, despite differences in price and inclusion of a product code in Entity-2.
+Expert_A_vote: YES
+Expert_B_reason: The product names indicate they are both Microsoft Office 2004 for Mac, with only minor differences in detail and pricing.
+Expert_B_vote: YES
+Expert_C_reason: Both entities describe Microsoft Office 2004 for Mac, and the differences in price and product code do not indicate different products.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,False
+microsoft office excel 2007 microsoft 229.95,designing forms with microsoft office infopath 2007 36.39,NO,"Expert_A_reason: Entity-1 refers to Microsoft Office Excel 2007, while Entity-2 refers to a book about designing forms with Microsoft Office InfoPath 2007, which are different products.
+Expert_A_vote: NO
+Expert_B_reason: The first entity is a software product (Excel 2007), and the second is a book about a different software (InfoPath 2007).
+Expert_B_vote: NO
+Expert_C_reason: The entities refer to different items—one is Excel 2007 software, the other is a book about InfoPath 2007.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+adobe photoshop elements 5.0 premiere elements 3.0 bundle adobe 149.99,adobe photoshop cs3 for mac 609.99,NO,"Expert_A_reason: The first entity is a bundle of Photoshop Elements 5.0 and Premiere Elements 3.0, while the second is Photoshop CS3 for Mac, which are different products.  
+Expert_A_vote: NO  
+Expert_B_reason: The product names, versions, and included software are different between the two entities.  
+Expert_B_vote: NO  
+Expert_C_reason: One entity is a bundle of consumer-level software, and the other is a professional version for Mac, so they are not the same.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+adobe creative suite cs3 production premium upgrade adobe 799.0,premiere pro cs3 mac upgrade 320.25,NO,"Expert_A_reason: Entity-1 refers to a full suite of Adobe products (Creative Suite CS3 Production Premium), while Entity-2 refers specifically to Premiere Pro CS3 for Mac, so they are not the same product.
+Expert_A_vote: NO
+Expert_B_reason: The first entity is an upgrade for the entire Adobe Creative Suite CS3 Production Premium, whereas the second is only for Premiere Pro CS3 Mac, indicating they are different products.
+Expert_B_vote: NO
+Expert_C_reason: Although both are Adobe CS3 upgrades, one is a suite and the other is a single application, so they do not refer to the same entity.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+instant immersion japanese deluxe 2.0 topics entertainment 39.99,instant immersion translator deluxe 2.0 22.9,NO,"Expert_A_reason: The first entity is specifically ""Instant Immersion Japanese Deluxe 2.0"" while the second is ""Instant Immersion Translator Deluxe 2.0,"" which suggests they are different products despite similar branding and version numbers.
+Expert_A_vote: NO
+Expert_B_reason: The product names differ significantly (""Japanese"" vs ""Translator""), indicating they are not the same entity.
+Expert_B_vote: NO
+Expert_C_reason: Although both are ""Deluxe 2.0"" from Instant Immersion, the specific product focus (""Japanese"" vs ""Translator"") and different prices suggest they are not the same.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+micromat techtool pro 4 ( mac ) micromat 99.99,micromat techtool protege utility with 1gb firewire flash drive 219.99,NO,"Expert_A_reason: The product names and descriptions indicate different Micromat products (TechTool Pro 4 vs. TechTool Protege utility with hardware), so they are not the same entity.
+Expert_A_vote: NO
+Expert_B_reason: Although both are Micromat utilities, one is software (TechTool Pro 4) and the other is a hardware/software bundle (TechTool Protege with flash drive), so they are distinct products.
+Expert_B_vote: NO
+Expert_C_reason: The entities refer to different Micromat products with different names, features, and prices.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+adobe creative suite cs3 design premium upsell adobe 1599.0,adobe cs3 production premium academic 569.99,NO,"Expert_A_reason: The two entities refer to different Adobe CS3 product editions (Design Premium vs. Production Premium) and have different pricing and target audiences (upsell vs. academic).
+Expert_A_vote: NO
+Expert_B_reason: The product names indicate different editions of Adobe CS3 (Design Premium vs. Production Premium) and different pricing tiers.
+Expert_B_vote: NO
+Expert_C_reason: The entities describe different Adobe CS3 packages with distinct names, purposes, and prices.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+instant immersion spanish 2.0 topics entertainment 29.99,instant immersion translator deluxe 2.0 22.9,NO,"Expert_A_reason: The first entity is a Spanish language learning product focused on entertainment topics, while the second is a translator software, so they are different products.  
+Expert_A_vote: NO  
+Expert_B_reason: The names and purposes of the products differ, with one being a Spanish learning tool and the other a translation software.  
+Expert_B_vote: NO  
+Expert_C_reason: Despite similar branding and version numbers, the product types and descriptions do not match.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+adobe premiere pro cs3 adobe 799.0,adobe premiere elements 3 ( pc ) 99.99,NO,"Expert_A_reason: The first entity is ""Adobe Premiere Pro CS3"" and the second is ""Adobe Premiere Elements 3,"" which are different products in the Adobe Premiere line.
+Expert_A_vote: NO
+Expert_B_reason: ""Premiere Pro CS3"" and ""Premiere Elements 3"" are distinct software products with different features and target audiences.
+Expert_B_vote: NO
+Expert_C_reason: Despite both being video editing software from Adobe, ""Premiere Pro CS3"" and ""Premiere Elements 3"" are separate products.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+adobe creative suite cs3 design premium upsell adobe 1599.0,adobe creative suite 3 design standard complete package 1 user academic windows 369.0,NO,"Expert_A_reason: The two entities refer to different versions (Design Premium Upsell vs. Design Standard Academic), with different pricing and target users.  
+Expert_A_vote: NO  
+Expert_B_reason: The product editions (Design Premium Upsell vs. Design Standard Academic) and pricing are different, indicating they are not the same product.  
+Expert_B_vote: NO  
+Expert_C_reason: The entities differ in edition (Premium Upsell vs. Standard Academic), package type, and price, so they are not the same.  
+Expert_C_vote: NO  
+Vote_Count: 0/3 YES  
+Final_Decision: NO",NO,True
+microsoft office mac 2004 english 3pk dsp 731-01163 ) microsoft corporation,microsoft office basic edition 2003 license and media 124.95,NO,"Expert_A_reason: The first entity is Microsoft Office for Mac 2004 (3-pack, English), while the second is Microsoft Office Basic Edition 2003 (license and media), which are different versions and editions for different platforms.
+Expert_A_vote: NO
+Expert_B_reason: The products differ in version year, edition, and platform (Mac 2004 vs. Basic 2003), so they are not the same entity.
+Expert_B_vote: NO
+Expert_C_reason: One is a Mac version from 2004 and the other is a Windows Basic Edition from 2003, indicating they are distinct products.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+adobe contribute cs3 [ mac ] adobe 149.0,adobe cs3 web standard upsell 819.99,NO,"Expert_A_reason: The first entity refers specifically to ""Adobe Contribute CS3"" for Mac, while the second refers to the broader ""Adobe CS3 Web Standard"" suite with an upsell, indicating different products.
+Expert_A_vote: NO
+Expert_B_reason: The product names and prices are different, with one being a single application (Contribute) and the other a suite (Web Standard), so they are not the same entity.
+Expert_B_vote: NO
+Expert_C_reason: ""Adobe Contribute CS3"" and ""Adobe CS3 Web Standard"" are distinct products, and the price difference further supports they are not the same.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+microsoft office small business 2007 full version microsoft 449.95,microsoft ( r ) office ultimate 2007 539.95,NO,"Expert_A_reason: The product names indicate different editions of Microsoft Office 2007 (""Small Business"" vs ""Ultimate""), which are distinct products.
+Expert_A_vote: NO
+Expert_B_reason: The two entities refer to different editions of Microsoft Office 2007, as ""Small Business"" and ""Ultimate"" are separate versions with different features and prices.
+Expert_B_vote: NO
+Expert_C_reason: The edition names and prices differ, indicating these are not the same product.
+Expert_C_vote: NO
+Vote_Count: 0/3 YES
+Final_Decision: NO",NO,True
+photo explosion 3.0 nova development 29.99,prw photo explosion deluxe v. 3.0 complete package 1 user cd win 47.6,NO,"Expert_A_reason: Both entities refer to ""Photo Explosion 3.0"" software, with the second providing more detail about the edition and packaging, but the core product matches.
+Expert_A_vote: YES
+Expert_B_reason: The names, version number (3.0), and developer (Nova Development) align, indicating they are the same software despite differences in description and price.
+Expert_B_vote: YES
+Expert_C_reason: Both mention ""Photo Explosion 3.0,"" and the additional details in Entity-2 do not contradict Entity-1, suggesting they are the same product.
+Expert_C_vote: YES
+Vote_Count: 3/3 YES
+Final_Decision: YES",YES,False

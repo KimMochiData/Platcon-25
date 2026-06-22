@@ -1,0 +1,502 @@
+[
+  {
+    "entity1": "cure : an efficient clustering algorithm for large databases s guha , r rastogi , k shim sigmod conference 1998",
+    "entity2": "efficient algorithm for projected clustering enk ka , aw fu",
+    "label": "NO"
+  },
+  {
+    "entity1": "open object database management systems 1994",
+    "entity2": "performance evaluation of a temporal database management system i ahn , r snodgrass proceedings of the 1986 acm sigmod international conference & hellip ; , 1986.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "an efficient algorithm for mining association rules in large databases a savasere , e omiecinski , s navathe vldb 1995",
+    "entity2": "mining association rules between sets of items in large databases . 1993 r agrawal , t imielinski , a swami proc . acm sigmod international conference on management of",
+    "label": "NO"
+  },
+  {
+    "entity1": "formal query languages for secure relational databases m winslett , k smith , x qian acm trans . database syst . 1994",
+    "entity2": "a visual query language for odmg-compliant databases m chavda , pt wood",
+    "label": "NO"
+  },
+  {
+    "entity1": "a language based multidatabase system e kќhn , t tschernko , k schwarz sigmod conference 1994",
+    "entity2": "a classification of multi-database languages m tresch , mh scholl , ibmar center , ca san jose parallel and distributed information systems , 1994. , & hellip ; , 1994.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "using unknowns to prevent discovery of association rules y saygin , v verykios , c clifton sigmod record 2001",
+    "entity2": "on the discovery of interesting patterns in association rules s ramaswamy , s mahajan , a silberschatz vldb , 1998.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "the distributed information search component ( disco ) and the world wide web a tomasic , r amouroux , p bonnet , o kapitskaia , h naacke , l raschid sigmod conference 1997",
+    "entity2": "the distributed information search component ( disco ) and the world wide web a tomasic , r amouroux , p bonnet , o kapitskaia , h sigmod conference , 1997.0",
+    "label": "YES"
+  },
+  {
+    "entity1": "open issues in parallel query optimization w hasan , d florescu , p valduriez sigmod record 1996",
+    "entity2": "multi-query optimization tk sellis acm trans . on database systems ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "partition based spatial-merge join j patel , d dewitt sigmod conference 1996",
+    "entity2": "size separation spatial join n koudas , kc sevcik proceedings of the 1997 acm sigmod international conference & hellip ; , 1997.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "interview with jim gray 2003",
+    "entity2": "interview with authors e larson san diego ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "the ecrc multi database system w jonker , h schќtz sigmod conference 1995",
+    "entity2": "the o 2 object-oriented database system f bancilhon proceedings of the 1992 acm sigmod-international conference",
+    "label": "NO"
+  },
+  {
+    "entity1": "outlier detection for high dimensional data c aggarwal , p yu sigmod conference 2001",
+    "entity2": "an effective and efficient algorithm for high-dimensional outlier detection cc aggarwal , ps yu the vldb journal the international journal on very large & hellip ; , 2005.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "guest editorial 2003",
+    "entity2": "guest editor 's introduction portal.acm.org",
+    "label": "NO"
+  },
+  {
+    "entity1": "schemasql - a language for interoperability in relational multi-database systems l lakshmanan , f sadri , i subramanian vldb 1996",
+    "entity2": "panel : interoperability in multidatabases : semantic and systems issues y breitbartâ ? ¦ proc of vldb ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "database research at arizona state university s urban , s dietrich , f golshani sigmod record 1996",
+    "entity2": "database research at hp labs ma neimat sigmod record , 1991.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "olap , relational , and multidimensional database systems g colliat sigmod record 1996",
+    "entity2": "cmd : a multidimensional declustering method for parallel database systems l jianzhong , j srivastava , d rotem proceedings of international conference on vldb , august ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "mining fuzzy association rules in databases c kuok , a fu , m wong sigmod record 1998",
+    "entity2": "mining association rules from quantitative data tp hong , cs kuo , sc chi intelligent data analysis , 1999.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "grid data management systems & services 2003",
+    "entity2": "research directions in data base management systems d tsichritzis acm sigmod record , 1977.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "data integration and warehousing in telecom italia s trisolini , m lenzerini , d nardi sigmod conference 1999",
+    "entity2": "enterprise modeling and data warehousing in telecom italia d calvanese , l dragone , d nardi , r rosati , sm",
+    "label": "NO"
+  },
+  {
+    "entity1": "dyda : data warehouse maintenance in fully concurrent environments j chen , x zhang , s chen , a koeller , e rundensteiner sigmod conference 2001",
+    "entity2": "efficient data view maintenance warehouses d agrawal , a el abbadi , a singh , t yurek proc . acm sigmod ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "formal query languages for secure relational databases m winslett , k smith , x qian acm trans . database syst . 1994",
+    "entity2": "on completeness of historical relational query languages j clifford , a croker , a tuzhilin acm transactions on database systems ( tods ) , 1994.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "using sql to build new aggregates and extenders for object - relational systems h wang , c zaniolo vldb 2000",
+    "entity2": "using sql to build new aggregates and extenders for object-relational systems hwc zaniolo",
+    "label": "YES"
+  },
+  {
+    "entity1": "merge replication in microsoft 's sql server 7.0 b hammond sigmod conference 1999",
+    "entity2": "data cleaning in microsoft sql server 2005 s chaudhuri , k ganjam , v ganti , r kapoor , v proceedings of the 2005 acm sigmod international conference & hellip ; , 2005.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "multiple-view self-maintenance in data warehousing environments n huyn vldb 1997",
+    "entity2": "j , hammer , j. widom . view maintenance in a warehousing environment y zhuge , h garcia-molina proc . of the acm sigmod intl. conf . on management of",
+    "label": "NO"
+  },
+  {
+    "entity1": "a system for keyword proximity search on xml databases a balmin , v hristidis , n koudas , y papakonstantinou , d srivastava , t wang vldb 2003",
+    "entity2": "keyword search in databases sv rajnikant",
+    "label": "NO"
+  },
+  {
+    "entity1": "guest editor 's introduction 2002",
+    "entity2": "guest editorial c allocchio computer networks , 2000.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "multi-dimensional substring selectivity estimation h jagadish , o kapitskaia , r ng , d srivastava vldb 1999",
+    "entity2": "an efficient subspace sampling framework for high-dimensional data reduction , selectivity estimation se reduction ieee transactions on knowledge and data engineering , 2004.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "aqr-toolkit : an adaptive query routing middleware for distributed data intensive systems l liu , c pu , d buttler , w han , h paques , w tang sigmod conference 2000",
+    "entity2": "mocha : a self-extensible database middleware system for distributed data sources m rodrä ± guez-martä ± nez , n roussopoulos proceedings of the acm sigmod international conference on & hellip ; , 2000.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "metadata for multimedia documents k bіhm , t rakow sigmod record 1994",
+    "entity2": "multimedia documents with elastic time my kim , j song & hellip ; of the third acm international conference on multimedia , 1995.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "lambda-db : an odmg-based object-oriented dbms l fegaras , c srinivasan , a rajendran , d maier sigmod conference 2000",
+    "entity2": "sentinel : an object-oriented dbms with event-based rules . acms anthology , p edition",
+    "label": "NO"
+  },
+  {
+    "entity1": "power efficient data gathering and aggregation in wireless sensor networks h tan , i korpeoglu sigmod record 2003",
+    "entity2": "in-network aggregation trade-offs for data collection in wireless sensor networks i solis , k obraczka",
+    "label": "NO"
+  },
+  {
+    "entity1": "database research at the university of illinois at urbana-champaign m winslett , k chang , a doan , j han , c zhai , y zhou sigmod record 2002",
+    "entity2": "university of illinois , urbana ms bsee ph. d. , university of california , santa",
+    "label": "NO"
+  },
+  {
+    "entity1": "an introduction to spatial database systems r gќting vldb j. 1994",
+    "entity2": "introduction to a system for distributed databases ( sdd-1 ) jb rothnie jr , pa bernstein , s fox , n goodman , m acm transactions on database systems ( tods ) , 1980.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "mining generalized association rules r srikant , r agrawal vldb 1995",
+    "entity2": "beyond market : generalizing association rules to correlations s brin , r motwani , c silverstein processing of the acm sigmod conference ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "local dimensionality reduction : a new approach to indexing high dimensional spaces k chakrabarti , s mehrotra vldb 2000",
+    "entity2": "locally adaptive dimensionality reduction for indexing large time series databases e keogh , k chakrabarti , s mehrotra , m pazzani sigmod conference , 2001.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "processing sliding window multi-joins in continuous queries over data streams l golab , m жzsu vldb 2003",
+    "entity2": "continuous queries over data streams s balu , j widom",
+    "label": "NO"
+  },
+  {
+    "entity1": "join synopses for approximate query answering s acharya , p gibbons , v poosala , s ramaswamy sigmod conference 1999",
+    "entity2": "icicles : self-tuning samples for approximate query answering v ganti , ml lee , r ramakrishnan vldb , 2000.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "advances in real-time database systems research a bestavros sigmod record 1996",
+    "entity2": "special issue on real-time database systems a bestavros sigmod record ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "mixed mode xml query processing a halverson , j burger , l galanis , a kini , r krishnamurthy , a rao , f tian , s viglas , y wang , j naughton , d dewitt vldb 2003",
+    "entity2": "compensation-based on-line query processing v srinivasan , mj carey proceedings of the 1992 acm sigmod international conference & hellip ; , 1992.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "editor 's notes m franklin sigmod record 1998",
+    "entity2": "editor 's notes rh silkman new directions for program evaluation ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "metu interoperable database system a dogac , u halici , e kilic , g жzhan , f ozcan , s nural , c dengi , s mancuhan , i arpinar , p koksal , c evrendilek sigmod conference 1996",
+    "entity2": "modern database systems w kimâ ? ¦ 1995.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "indexing the positions of continuously moving objects s saltenis , c jensen , s leutenegger , m lopez sigmod conference 2000",
+    "entity2": "lopez. , m. : indexing the position of continuously moving objects s saltenis , c jensen , s leutenegger proceedings of acm sigmod conference",
+    "label": "YES"
+  },
+  {
+    "entity1": "sequence query processing p seshadri , m livny , r ramakrishnan sigmod conference 1994",
+    "entity2": "xml query processing d florescu , d kossmann data engineering , 2004 . proceedings . 20th international",
+    "label": "NO"
+  },
+  {
+    "entity1": "set containment joins : the good , the bad and the ugly k ramasamy , j patel , j naughton , r kaushik vldb 2000",
+    "entity2": "data management in ecommerce : the good , the bad , and the ugly a gal",
+    "label": "NO"
+  },
+  {
+    "entity1": "algorithms for mining association rules for binary segmentations of huge categorical databases y morimoto , t fukuda , h matsuzawa , t tokuyama , k yoda vldb 1998",
+    "entity2": "mining association rules between sets ofitems in large databases r agrawal , t imielinski , a swami conference on management of data . washington ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "generic database cost models for hierarchical memory systems s manegold , p boncz , m kersten vldb 2002",
+    "entity2": "generalized search trees for database systems jm hellerstein , jf naughton , a pfeffer vldb , 1995.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "opt + + : an object-oriented implementation for extensible database query optimization n kabra , d dewitt vldb j. 1999",
+    "entity2": "description logics for semantic query optimization in object-oriented database systems d beneventano , s bergamaschi , c sartori acm transactions on database systems , 2003.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "an experimental system for object-based sharing in federated databases d fang , s ghandeharizadeh vldb j. 1996",
+    "entity2": "a dynamic model for conceptual clustering in object-oriented databases q li , j smith proc . of vldb ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "reminiscences on influential papers 1999",
+    "entity2": "reminiscences on influential papers e bertino acm transactions on database systems , 1976.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "deeds towards a distributed and active real-time database system s andler , j hansson , j eriksson , j mellin , m berndtsson , b eftring sigmod record 1996",
+    "entity2": "andb . eftring , deeds : towards a distributed and active real-time database systems sf andler , j hansson , j eriksson , j mellin , m acm sigmod record ,",
+    "label": "YES"
+  },
+  {
+    "entity1": "generating call-level interfaces for advanced database application programming u nink , t hфrder , n ritter vldb 1999",
+    "entity2": "advanced windows nt : the developer 's guide to the win32 application programming interface j richter 1993.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "deadlock detection in distributed database systems : a new algorithm and a comparative performance analysis n krivokapic , a kemper , e gudes vldb j. 1999",
+    "entity2": "revisiting commit processing performance in distributed database systems r gupta , j haritsa , k ramamritham proc . acm sigmod int &#39; l conf . management of data ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "performance issues in incremental warehouse maintenance w labio , j yang , y cui , h garcia-molina , j widom vldb 2000",
+    "entity2": "batch data warehouse maintenance in dynamic environments b liu , s chen , ea rundensteiner",
+    "label": "NO"
+  },
+  {
+    "entity1": "integrating a structured-text retrieval system with an object-oriented database system t yan , j annevelink vldb 1994",
+    "entity2": "spatial query processing in an object-oriented database system ja orenstein proceedings of the 1986 acm sigmod international conference",
+    "label": "NO"
+  },
+  {
+    "entity1": "bringing order to query optimization g slivinskas , c jensen , r snodgrass sigmod record 2002",
+    "entity2": "bringing order to query optimization gscs jensenl , rt snodgrass sigmod record , 2002.0",
+    "label": "YES"
+  },
+  {
+    "entity1": "watermarking relational databases r agrawal , j kiernan vldb 2002",
+    "entity2": "dmql : a data mining query language for relational databases j han , y fu , w wang , k koperski , o zaiane",
+    "label": "NO"
+  },
+  {
+    "entity1": "a language based multidatabase system e kќhn , t tschernko , k schwarz sigmod conference 1994",
+    "entity2": "interbase : a multidatabase prototype system oa bukhres , j chen , ak elmagarmid , x liu , jg",
+    "label": "NO"
+  },
+  {
+    "entity1": "lambda-db : an odmg-based object-oriented dbms l fegaras , c srinivasan , a rajendran , d maier sigmod conference 2000",
+    "entity2": "metu object-oriented dbms a dogac , c ozkan , b arpinar , t okay , c evrendilek",
+    "label": "NO"
+  },
+  {
+    "entity1": "fundamental techniques for order optimization d simmen , e shekita , t malkemus sigmod conference 1996",
+    "entity2": "probabilistic optimization techniques for multicast key management aa selcuk , d sidhu computer networks , 2002.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "efficient algorithms for mining outliers from large data sets s ramaswamy , r rastogi , k shim sigmod conference 2000",
+    "entity2": "efficient algorithms for discovering frequent sets in incremental databases rfyaa amir , h mannila i > proc . acm sigmod workshop research issues on data mining & hellip ; ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "pbir - perception-based image retrieval e chang , t cheng , l chang sigmod conference 2001",
+    "entity2": "perception-based image retrieval e chang , t cheng acm sigmod ( demo ) ,",
+    "label": "YES"
+  },
+  {
+    "entity1": "reminiscences on influential papers 2000",
+    "entity2": "reminiscences on influential papers hgm stanlbrd sigmod record , 1998.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "using taxonomy , discriminants , and signatures for navigating in text databases s chakrabarti , b dom , r agrawal , p raghavan vldb 1997",
+    "entity2": "using taxonomy , dicriminants , and signatures to navigate in text databases s chakrabarti , b dom , r agrawal , p raghavan",
+    "label": "YES"
+  },
+  {
+    "entity1": "industrial panel on data warehousing technologies : experiences , challenges , and directions u dayal vldb 1999",
+    "entity2": "industrial panel on data warehousing technologies : experiences , challenges , and directions u dayal proceedings of the 25th international conference on very & hellip ; , 1999.0",
+    "label": "YES"
+  },
+  {
+    "entity1": "disima : a distributed and interoperable image database system v oria , m жzsu , p iglinski , s lin , b yao sigmod conference 2000",
+    "entity2": "rule and data allocation in distributed deductive database systems sj lim , yk ng",
+    "label": "NO"
+  },
+  {
+    "entity1": "adaptive data broadcast in hybrid networks k stathatos , n roussopoulos , j baras vldb 1997",
+    "entity2": "adaptive data broadcast in hybrid networks k stathatos , n roussopoulos , js baras proceedings of the international conference on very large & hellip ; , 1997.0",
+    "label": "YES"
+  },
+  {
+    "entity1": "aquery : query language for ordered data , optimization techniques , and experiments a lerner , d shasha vldb 2003",
+    "entity2": "optimization techniques for queries with expensive predicates jm hellerstein acm transactions on database systems ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "composite events for active databases : semantics , contexts and detection s chakravarthy , v krishnaprasad , e anwar , s kim vldb 1994",
+    "entity2": "composite events for active databases : semantics s chakravarthy , v krishnaprasad , e anwar , sk kim contexts , and detection , procs . of the 20th intâ ?? l conf . on & hellip ; ,",
+    "label": "YES"
+  },
+  {
+    "entity1": "eager aggregation and lazy aggregation w yan , p larson vldb 1995",
+    "entity2": "on-line aggregation jm hellerstein , jp haas , hj wang proc . of acm-sigmod conference on management of data ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "dynamic itemset counting and implication rules for market basket data s brin , r motwani , j ullman , s tsur sigmod conference 1997",
+    "entity2": "dynamic iternset counting and impficalion rules for market basket data s brin , r motwani , jd ullman , s tsur acm sigmod international conference on the management of & hellip ; ,",
+    "label": "YES"
+  },
+  {
+    "entity1": "title , foreword 1994",
+    "entity2": "foreword a iserles , sp nã ¸ rsett",
+    "label": "NO"
+  },
+  {
+    "entity1": "efficient retrieval of similar shapes d rafiei , a mendelzon vldb j. 2002",
+    "entity2": "efficient and tumble similar set retrieval a gionis , d gunopulos , n koudas proceedings of the 2001 acm sigmod international conference & hellip ; , 2001.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "efficiently instantiating view-objects from remote relational databases b lee , g wiederhold vldb j. 1994",
+    "entity2": "simple random sampling from relational databases fo or861 , d rotem proc . of vldb , kyoto , japan , aug ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "scalable techniques for mining causal structures c silverstein , s brin , r motwani , j ullman vldb 1998",
+    "entity2": "etal . scalable techniques for mining causal structures [ a ] . vldb '98 [ c ] c silverstein , s brin , r motwani 1998.0",
+    "label": "YES"
+  },
+  {
+    "entity1": "towards a theory of cost management for digital libraries and electronic commerce a sistla , o wolfson , y yesha , r sloan acm trans . database syst . 1998",
+    "entity2": "ontologies : a silver bullet for knowledge management and electronic commerce b contents sigmod record , 2002.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "streaming queries over streaming data s chandrasekaran , m franklin vldb 2002",
+    "entity2": "xpath queries on streaming data f peng , ss chawathe",
+    "label": "NO"
+  },
+  {
+    "entity1": "treasurer 's message 2000",
+    "entity2": "treasurer 's report j berg acm sigmod record , 1981.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "a normal form for precisely characterizing redundancy in nested relations w mok , y ng , d embley acm trans . database syst . 1996",
+    "entity2": "a new normal form for nested relations z meral ozsoyoglu , ly yuan acm transactions on database systems ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "efficiently publishing relational data as xml documents j shanmugasundaram , e shekita , r barr , m carey , b lindsay , h pirahesh , b reinwald vldb 2000",
+    "entity2": "efficiently monitoring relational databases op buneman , ek clemons acm transactions on database systems ( tods ) , 1979.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "guest editor 's introduction 2002",
+    "entity2": "guest editorial bv gray journal of research in science teaching , 1999.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "supply chain infrastructures : system integration and information sharing m ball , m ma , l raschid , z zhao sigmod record 2002",
+    "entity2": "architecture of integrated information systems aw scheer 1992.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "guest editor 's introduction 2002",
+    "entity2": "guest editorial z bankowski , a scott , f snyder european law journal , 1998.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "catching the boat with strudel : experiences with a web-site management system m fernandez , d florescu , j kang , a levy , d suciu sigmod conference 1998",
+    "entity2": "ã cents â ? ¬ å?catching the boat with strudel : experiences with a web-site management systemã cents â ? ¬ â ? mf fernandez , d florescu , j kang , ay levy , d suciu proc . of the acm sigmod",
+    "label": "YES"
+  },
+  {
+    "entity1": "panel : future directions of database research - the vldb broadening strategy , part 2 m brodie vldb 2000",
+    "entity2": "future directions of database research hj schek , ml brodieâ ? ¦ vldb , cairo ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "bringing order to query optimization g slivinskas , c jensen , r snodgrass sigmod record 2002",
+    "entity2": "continous query optimization r avnur , j hellerstien acm sigmod",
+    "label": "NO"
+  },
+  {
+    "entity1": "tail recursion elimination in deductive databases k ross acm trans . database syst . 1996",
+    "entity2": "belief reasoning in mls deductive databases hm jamil sigmod conference , 1999.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "semantic integration of environmental models for application to global information systems and decision-making d mackay sigmod record 1999",
+    "entity2": "an application of judgemental modelling for strategic decision making in an international ian hipkin electronic markets , 1999.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "the mariposa distributed database management system j sidell sigmod record 1996",
+    "entity2": "access path selectlon in a relational database management system mm astrahan , pg sellinger , dd chamberlain , ra proceedings ( 1979 ) sigmod conference ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "storage estimation for multidimensional aggregates in the presence of hierarchies a shukla , p deshpande , j naughton , k ramasamy vldb 1996",
+    "entity2": "set-derivability of multidimensional aggregates j albrecht , h guenzel , w lehner",
+    "label": "NO"
+  },
+  {
+    "entity1": "editor 's notes j widom sigmod record 1995",
+    "entity2": "editors ' notes c knapper , s piccinin new directions for teaching and learning ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "guest editor 's introduction 2002",
+    "entity2": "guest editorial s chaudhuri data mining and knowledge discovery , 2000.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "staggered striping in multimedia information systems s berson , s ghandeharizadeh , r muntz , x ju sigmod conference 1994",
+    "entity2": "object invocation and management in the zenith distributed multimedia information system n davies , m davy , gs blair , j mariani information and software technology , 1993.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "materialized views selection in a multidimensional database e baralis , s paraboschi , e teniente vldb 1997",
+    "entity2": "a foundation for multi-dimensional databases m gyssens , lvs lakshmanan",
+    "label": "NO"
+  },
+  {
+    "entity1": "continuous queries over data streams s babu , j widom sigmod record 2001",
+    "entity2": "continuous queries over data streams j widom , s babu sigmod record ,",
+    "label": "YES"
+  },
+  {
+    "entity1": "the ecrc multi database system w jonker , h schќtz sigmod conference 1995",
+    "entity2": "the indiana center for database systems j copler acm sigmod record , 1991.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "reminiscences on influential papers 2001",
+    "entity2": "reminiscences on influential papers e bertino acm transactions on database systems , 1976.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "the mariposa distributed database management system j sidell sigmod record 1996",
+    "entity2": "the araneus web-base management system p atzeni , g mecca , p merialdo , a masci , g sindoni proc . int . conf . sigmod ,",
+    "label": "NO"
+  },
+  {
+    "entity1": "tutorial : designing an ultra highly available dbms 2000",
+    "entity2": "tutorial : designing an ultra highly available dbms . se bratsberg",
+    "label": "YES"
+  },
+  {
+    "entity1": "strudel : a web-site management system m fernandez , d florescu , j kang , a levy , d suciu sigmod conference 1997",
+    "entity2": "the legion resource management system sj chapin , d katramatos , j karpovich , as grimshaw lecture notes in computer science , 1999.0",
+    "label": "NO"
+  },
+  {
+    "entity1": "neurorule : a connectionist approach to data mining h lu , r setiono , h liu vldb 1995",
+    "entity2": "r. & liu , h. : neurorule : a connectionist approach to data mining h lu , r setiono & hellip ; conference on very large data bases , zurich , switzer-land ,",
+    "label": "YES"
+  }
+]
